@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "165668661658",
+    "firebase_url": "https://expex-importadora-eada4.firebaseio.com",
+    "project_id": "expex-importadora-eada4",
+    "storage_bucket": "expex-importadora-eada4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165668661658:android:8c3880e1051689d4683223",
+        "android_client_info": {
+          "package_name": "expex.com.br.expeximportadora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165668661658-dr6pkseqbqb742vcgqe1c65n0j348a44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5vc0MWvaX9lbDbYiErCdxcHhrP2a0_S4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165668661658-dr6pkseqbqb742vcgqe1c65n0j348a44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
